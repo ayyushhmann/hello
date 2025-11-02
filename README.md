@@ -81,7 +81,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 2. Call `getMessage()` → returns `"Hello Blockchain!"`  
 3. Call `setMessage("Welcome to XYZ!")` as owner → updates message  
 4. Call `getMessage()` again → returns `"Welcome to XYZ!"`
-Deployed Smart Contract Link : https://celo-sepolia.blockscout.com/tx/0x6b3177ae41b146d5fe82d47823c50c48baba3352a14fa51e3de5a13115eb8983
+   
 ---
 <img width="1920" height="1080" alt="Screenshot 2025-10-29 140321" src="https://github.com/user-attachments/assets/5e26acef-abe5-47e2-a4c9-1f96f3511975" />
 
