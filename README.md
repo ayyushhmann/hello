@@ -35,7 +35,7 @@ This project serves as a great starting point for developers who are new to bloc
 ## 🌐 Deployed Smart Contract
 
 - **Network:** Ethereum (or Testnet, e.g., Sepolia / Goerli)  
-- **Contract Address:** ` https://celo-sepolia.blockscout.com/tx/0x6b3177ae41b146d5fe82d47823c50c48baba3352a14fa51e3de5a13115eb8983`  
+- **Contract Address:**  https://celo-sepolia.blockscout.com/tx/0x6b3177ae41b146d5fe82d47823c50c48baba3352a14fa51e3de5a13115eb8983 
 - **Verified Source:** [Etherscan Link](https://etherscan.io/address/XXX) *(replace with your actual link)*
 
 ---
