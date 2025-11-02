@@ -63,9 +63,9 @@ This project serves as a great starting point for developers who are new to bloc
 ## 👨‍💻 Author
 
 **Your Name / Team Name**  
-- Twitter: [@yourhandle](https://twitter.com/)  
-- GitHub: [yourgithub](https://github.com/)  
-- Website: [yourwebsite.com](https://yourwebsite.com)
+- Twitter: [@ayushman4real](https://twitter.com/)  
+- GitHub: [ayyushhmann](https://github.com/)  
+- linkedin: [ayushman4real](https://yourwebsite.com)
 
 ---
 
